@@ -1,1 +1,1 @@
-# Examples and Exercises in <Pointers on C>
+# Examples and Exercises in #Pointers on C
